@@ -30,13 +30,18 @@ This project is a **React-based Calendar Application** designed to track and man
 
 1. Download the zip or clone it :
 ```bash
-git clone https://github.com/PiyushKamble/react-calendar-app.git
-cd react-calendar-app
+git clone https://github.com/PiyushKamble/Calendar-Application-for-Communication-Tracking-ENTNT
+cd Calendar-Application-for-Communication-Tracking-master
 ```
 
 2. Install dependencies:
 ```bash
 npm install
+```
+
+2. Run the project:
+```bash
+npm run dev
 ```
 
 ## Dependencies
