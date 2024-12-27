@@ -28,9 +28,9 @@ This project is a **React-based Calendar Application** designed to track and man
 
 ## Installation
 
-1. Clone the repository:
+1. Download the zip or clone it :
 ```bash
-git clone https://github.com/your-repo/react-calendar-app.git
+git clone https://github.com/PiyushKamble/react-calendar-app.git
 cd react-calendar-app
 ```
 
@@ -38,18 +38,6 @@ cd react-calendar-app
 ```bash
 npm install
 ```
-
-3. Start the development server:
-```bash
-npm start
-```
-
-4. Open your browser and navigate to:
-```
-http://localhost:3000
-```
-
----
 
 ## Dependencies
 
